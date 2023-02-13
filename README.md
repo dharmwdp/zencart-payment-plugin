@@ -46,7 +46,7 @@ Testing
 
 While in Test Mode you can use any of the card numbers detailed.
 Card No.: 5105105105105100
-cvv: 999
+cvv: 999,
 Card No.: 5123450000000008
 cvv: 100
 
