@@ -24,11 +24,7 @@ Uninstalling
 2. Click on **Omnipay**, then click **Remove**.
 3. Click **Remove** to confirm.
 4. Delete the files listed below.
-5. To remove all configuration items from the database run the following query on your ZenCart database:
 
-```sql
-  delete from configuration where configuration_key like '%Omnipay%';
-```
 
 Files
 -----
